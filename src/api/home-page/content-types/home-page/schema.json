@@ -1,0 +1,148 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "home-page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstPartFirstTitle": {
+      "type": "string"
+    },
+    "firstPartFirstDescp": {
+      "type": "text"
+    },
+    "firstPartSecondTitle": {
+      "type": "string"
+    },
+    "firstPartRedirectUrl": {
+      "type": "string"
+    },
+    "firstPartBackgroundImg": {
+      "type": "string"
+    },
+    "secondPartfristTitle": {
+      "type": "string"
+    },
+    "secondPartfirstDescp": {
+      "type": "text"
+    },
+    "secondPartsecondTitle": {
+      "type": "string"
+    },
+    "secondPartsecondDescp": {
+      "type": "text"
+    },
+    "secondPartThirdTitle": {
+      "type": "string"
+    },
+    "secondPartThirdDescp": {
+      "type": "text"
+    },
+    "secondPartButtonData": {
+      "type": "json"
+    },
+    "thirdPartFirstTitle": {
+      "type": "string"
+    },
+    "thirdPartFirstDescp": {
+      "type": "text"
+    },
+    "thirdPartYoutubeLink": {
+      "type": "string"
+    },
+    "fouthPartFirstTitle": {
+      "type": "string"
+    },
+    "fourthPartFirstDescp": {
+      "type": "text"
+    },
+    "fouthPartPdfDescp": {
+      "type": "text"
+    },
+    "fouthPartPdfUrl": {
+      "type": "string"
+    },
+    "fouthPartImageUrl": {
+      "type": "string"
+    },
+    "fifthPartfirstTitle": {
+      "type": "string"
+    },
+    "fifthPartfirstDescp": {
+      "type": "text"
+    },
+    "fifthPartNumaricData": {
+      "type": "json"
+    },
+    "fifthPartReferenceData": {
+      "type": "json"
+    },
+    "sixPartFirstTitle": {
+      "type": "string"
+    },
+    "sixPartSecondTitle": {
+      "type": "string"
+    },
+    "sixPartThirdTitle": {
+      "type": "string"
+    },
+    "sixPartButtonData": {
+      "type": "json"
+    },
+    "sixPartLinkData": {
+      "type": "json"
+    },
+    "sixPartMediaData": {
+      "type": "json"
+    },
+    "sevenPartFirstTitle": {
+      "type": "string"
+    },
+    "sevenPartFirstDescp": {
+      "type": "text"
+    },
+    "sevenPartYoutubeData": {
+      "type": "json"
+    },
+    "ninePartDetail": {
+      "type": "json"
+    },
+    "tenPartfirstTitle": {
+      "type": "string"
+    },
+    "tenPartsecondTitle": {
+      "type": "string"
+    },
+    "tenPartfirstDescp": {
+      "type": "string"
+    },
+    "tenPartfirstButtonData": {
+      "type": "json"
+    },
+    "tenPartthirdButtonData": {
+      "type": "json"
+    },
+    "tenPartsecondButtonData": {
+      "type": "json"
+    },
+    "tenPartsecondDescp": {
+      "type": "string"
+    },
+    "tenPartthirdDescp": {
+      "type": "text"
+    },
+    "eightPartData": {
+      "type": "json"
+    },
+    "tenPartthirdTitle": {
+      "type": "string"
+    }
+  }
+}
