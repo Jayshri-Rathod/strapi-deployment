@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_page_footers",
+  "info": {
+    "singularName": "home-page-footer",
+    "pluralName": "home-page-footers",
+    "displayName": "home-page-footer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstText": {
+      "type": "string"
+    },
+    "addressData": {
+      "type": "json"
+    },
+    "websideData": {
+      "type": "string"
+    },
+    "payementImage": {
+      "type": "string"
+    }
+  }
+}
