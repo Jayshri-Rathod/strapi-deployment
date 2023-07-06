@@ -4,7 +4,8 @@
   "info": {
     "singularName": "home-page-footer",
     "pluralName": "home-page-footers",
-    "displayName": "home-page-footer"
+    "displayName": "home-page-footer",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -22,6 +23,9 @@
     },
     "payementImage": {
       "type": "string"
+    },
+    "socialMediaLink": {
+      "type": "json"
     }
   }
 }
